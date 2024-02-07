@@ -1,7 +1,7 @@
 # Minimalist dotfiles
 This is my configuration for my Linux enviroment for programming.
 ## Screenshots
-### neovim main screen
+### neovim main screen (alpha neovim splash screen)
 ![image](https://github.com/OmarAzizi/dotfiles/assets/110500643/b4155ddf-1f9a-43f7-ade6-3509efaf47d6)
 
 ![image](https://github.com/OmarAzizi/dotfiles/assets/110500643/bdc1bd54-b2cb-4811-9806-069412401d1d)
